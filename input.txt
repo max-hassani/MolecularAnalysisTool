@@ -1,0 +1,10 @@
+num_times=1
+intrvl=0.005
+NRPART=64064
+NRBONDS=64000
+NR_ATOM_TYPE=2
+init_data=/home/muhammad/workspace/codeWorkspace/GitHub-proj/polymer-analysis/2ndVersion/test/data.3dArray
+time_series_file=/home/muhammad/workspace/codeWorkspace/GitHub-proj/polymer-analysis/2ndVersion/test/times.dat
+dump_path=/home/muhammad/workspace/codeWorkspace/GitHub-proj/polymer-analysis/2ndVersion/test/dump.*
+atom_style=bond
+periodicity=p p p

@@ -1,0 +1,4 @@
+Assumptions:
+1) dump file structure: "id mol type xu yu zu"
+2) It is assumed that the simulation box is not tricilinic and are orthogonal.
+3) 

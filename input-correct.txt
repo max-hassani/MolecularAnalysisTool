@@ -1,0 +1,14 @@
+num_times	2
+intrvl	0.005
+NRPART	10000
+NRBONDS	10
+NRChains	1
+LX	100
+LY	50
+LZ	20
+bond_path	/home/hassan/workspace/codeWorkspace/GitHub-proj/polymer-analysis/2ndVersion/bond.txt
+init_data	/home/hassan/workspace/codeWorkspace/GitHub-proj/polymer-analysis/2ndVersion/data.ini
+time_series_file	/home/hassan/workspace/codeWorkspace/GitHub-proj/polymer-analysis/2ndVersion/times.txt
+dump_path	/home/hassan/workspace/codeWorkspace/GitHub-proj/polymer-analysis/2ndVersion/
+atom_type	bond
+dynamic_box	yes

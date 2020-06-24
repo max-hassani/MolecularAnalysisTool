@@ -1,0 +1,15 @@
+LX 1000
+NRPART 2 
+NRBONDS 10000
+NRChains 60
+num_times 2
+t_first 1200 
+intvl 0.005 
+		if(flag == 0 && str.length() != 0){
+			cout << "length: " << str.length() << endl;
+			cout << "The input file at line " << i+1 << " is not defined well" << endl;
+			cout << "Take a look!" << endl;
+			cout << "str: " << str << endl;
+			cout << "spac: "<< spac << endl;
+			exit(2);
+		}else if()
